@@ -1,0 +1,12 @@
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\bin\Debug\net10.0-windows\Clases Logicas.deps.json
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\bin\Debug\net10.0-windows\Clases Logicas.dll
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\bin\Debug\net10.0-windows\Clases Logicas.pdb
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.csproj.AssemblyReference.cache
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.AssemblyInfoInputs.cache
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.AssemblyInfo.cs
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.csproj.CoreCompileInputs.cache
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.dll
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\refint\Clases Logicas.dll
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.pdb
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\ref\Clases Logicas.dll

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\bellecroissantlyonnaisapp\\formregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\formregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\bellecroissantlyonnaisapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\clases logicas\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|solutionrelative:clases logicas\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\bellecroissantlyonnaisapp\\formregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\formregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\bellecroissantlyonnaisapp\\formregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\formregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\bellecroissantlyonnaisapp\\formregistrar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\formregistrar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\clases logicas\\preguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|solutionrelative:clases logicas\\preguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\clases logicas\\clases logicas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|solutionrelative:clases logicas\\clases logicas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\clases logicas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|solutionrelative:clases logicas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\clases logicas\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AD655-BF81-44BA-A838-26F96D4E1E81}|Clases Logicas\\Clases Logicas.csproj|solutionrelative:clases logicas\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\bellecroissantlyonnaisapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|c:\\users\\sherm\\source\\repos\\bellecroissantlyonnais\\bellecroissantlyonnaisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0B8655-F242-0FC3-6F9B-D019B409F4C7}|BelleCroissantLyonnaisApp\\BelleCroissantLyonnaisApp.csproj|solutionrelative:bellecroissantlyonnaisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormLogin.cs",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\FormLogin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T22:46:36.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.cs",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\FormRegistrar.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.cs",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\FormRegistrar.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:24:42.502Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegistrar.resx",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.resx",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\FormRegistrar.resx",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.resx",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\FormRegistrar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-07-17T05:16:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreguntaSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\PreguntaSeguridad.cs",
+              "RelativeDocumentMoniker": "Clases Logicas\\PreguntaSeguridad.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\PreguntaSeguridad.cs",
+              "RelativeToolTip": "Clases Logicas\\PreguntaSeguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:56:23.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegistrar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.Designer.cs",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\FormRegistrar.Designer.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.Designer.cs",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\FormRegistrar.Designer.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAYwO8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T23:41:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegistrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.cs",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\FormRegistrar.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormRegistrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\FormRegistrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T23:39:44.707Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "Clases Logicas\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\UsuarioDAO.cs",
+              "RelativeToolTip": "Clases Logicas\\UsuarioDAO.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T21:59:18.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\Usuario.cs",
+              "RelativeDocumentMoniker": "Clases Logicas\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\Usuario.cs",
+              "RelativeToolTip": "Clases Logicas\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T21:55:54.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clases Logicas.csproj",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\Clases Logicas.csproj",
+              "RelativeDocumentMoniker": "Clases Logicas\\Clases Logicas.csproj",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\Clases Logicas.csproj",
+              "RelativeToolTip": "Clases Logicas\\Clases Logicas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-15T21:49:27.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\Conexion.cs",
+              "RelativeDocumentMoniker": "Clases Logicas\\Conexion.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\Clases Logicas\\Conexion.cs",
+              "RelativeToolTip": "Clases Logicas\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T21:49:01.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\Program.cs",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\Program.cs",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T22:47:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BelleCroissantLyonnaisApp\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\sherm\\source\\repos\\BelleCroissantLyonnais\\BelleCroissantLyonnaisApp\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BelleCroissantLyonnaisApp\\FormLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T15:48:57.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
