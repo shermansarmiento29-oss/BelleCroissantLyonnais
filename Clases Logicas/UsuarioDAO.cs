@@ -120,6 +120,76 @@ namespace Clases_Logicas
                 return lista;
             }
         }
+        public Usuario ObtenerUsuarioPorCorreo(string correo)
+        {
+            using (SqlConnection conexion = ObtenerConexion())
+            {
+                conexion.Open();
+                string consulta = "SELECT * FROM Usuarios WHERE correo=@Correo";
+                SqlCommand comando = new SqlCommand(consulta, conexion);
+                comando.Parameters.AddWithValue("@Correo", correo);
+                SqlDataReader reader = comando.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    return new Usuario
+                    {
+                        IdUsuario = (int)reader["idUsuario"],
+                        Nombre = reader["nombre"].ToString(),
+                        Apellido = reader["apellido"].ToString(),
+                        Correo = reader["correo"].ToString(),
+                        Telefono = reader["telefono"] == DBNull.Value ? "" : reader["telefono"].ToString(),
+                        Imagen = reader["imagen"] == DBNull.Value ? "" : reader["imagen"].ToString(),
+                        Suscripcion = (bool)reader["suscripcion"],
+                        IdMetodoEntrega = reader["IdMetodoEntrega"] == DBNull.Value ? 0 : (int)reader["IdMetodoEntrega"]
+                    };
+                }
+                return null;
+            }
+        }
+
+        public bool ActualizarPerfil(Usuario user)
+        {
+            using (SqlConnection conexion = ObtenerConexion())
+            {
+                conexion.Open();
+                string consulta = @"UPDATE Usuarios SET
+                            nombre=@nombre, apellido=@apellido, telefono=@telefono,
+                            imagen=@imagen, suscripcion=@suscripcion, IdMetodoEntrega=@IdMetodoEntrega
+                            WHERE correo=@correo";
+                SqlCommand comando = new SqlCommand(consulta, conexion);
+                comando.Parameters.AddWithValue("@nombre", user.Nombre);
+                comando.Parameters.AddWithValue("@apellido", user.Apellido);
+                comando.Parameters.AddWithValue("@telefono", string.IsNullOrEmpty(user.Telefono) ? (object)DBNull.Value : user.Telefono);
+                comando.Parameters.AddWithValue("@imagen", string.IsNullOrEmpty(user.Imagen) ? (object)DBNull.Value : user.Imagen);
+                comando.Parameters.AddWithValue("@suscripcion", user.Suscripcion);
+                comando.Parameters.AddWithValue("@IdMetodoEntrega", user.IdMetodoEntrega == 0 ? (object)DBNull.Value : user.IdMetodoEntrega);
+                comando.Parameters.AddWithValue("@correo", user.Correo);
+                int filas = comando.ExecuteNonQuery();
+                return filas > 0;
+            }
+        }
+
+        public List<MetodoEntrega> ObtenerMetodosEntrega()
+        {
+            List<MetodoEntrega> lista = new List<MetodoEntrega>();
+            using (SqlConnection conexion = ObtenerConexion())
+            {
+                conexion.Open();
+                string consulta = "SELECT idMetodoEntrega, nombreMetodo FROM MetodoEntrega";
+                SqlCommand comando = new SqlCommand(consulta, conexion);
+                SqlDataReader reader = comando.ExecuteReader();
+                while (reader.Read())
+                {
+                    lista.Add(new MetodoEntrega
+                    {
+                        IdMetodoEntrega = (int)reader["idMetodoEntrega"],
+                        NombreMetodo = reader["nombreMetodo"].ToString()
+                    });
+                }
+                return lista;
+            }
+        }
 
     }
 }

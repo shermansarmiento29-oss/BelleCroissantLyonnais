@@ -32,6 +32,15 @@ namespace BelleCroissantLyonnaisApp
             }
 
             MessageBox.Show("Inicio de sesión exitoso.");
+
+            // Abrir el formulario de perfil
+
+
+
+            FormPerfil formPerfil = new FormPerfil(txtCorreo.Text.Trim());
+            formPerfil.Show();
+
+            this.Hide();
         }
 
         private void buttonCrear_cuenta_Click(object sender, EventArgs e)

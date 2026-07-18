@@ -10,3 +10,4 @@ C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net1
 C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\refint\Clases Logicas.dll
 C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.pdb
 C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\ref\Clases Logicas.dll
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\Clases Logicas\obj\Debug\net10.0-windows\Clases Logicas.sourcelink.json

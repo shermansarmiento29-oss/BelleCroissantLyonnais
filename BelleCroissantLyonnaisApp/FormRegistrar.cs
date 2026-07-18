@@ -24,12 +24,9 @@ namespace BelleCroissantLyonnaisApp
             comboBox1.SelectedIndex = -1;
         }
 
-     
 
-        private void BtnCancelar_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+
+     
 
         private void buttonRegistrar_Click(object sender, EventArgs e)
         {
@@ -107,6 +104,14 @@ namespace BelleCroissantLyonnaisApp
             {
                 MessageBox.Show("No se pudo crear la cuenta. Intente de nuevo.");
             }
+        }
+
+        private void buttonCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+            FormLogin formlogin = new FormLogin(); 
+            formlogin.Show();
         }
     }
 }

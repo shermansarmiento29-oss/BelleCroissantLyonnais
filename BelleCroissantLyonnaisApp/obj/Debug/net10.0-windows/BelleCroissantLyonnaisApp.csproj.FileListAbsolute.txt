@@ -56,3 +56,5 @@ C:\Users\sherm\source\repos\BelleCroissantLyonnais\BelleCroissantLyonnaisApp\bin
 C:\Users\sherm\source\repos\BelleCroissantLyonnais\BelleCroissantLyonnaisApp\obj\Debug\net10.0-windows\BelleCroissantLyonnaisApp.csproj.AssemblyReference.cache
 C:\Users\sherm\source\repos\BelleCroissantLyonnais\BelleCroissantLyonnaisApp\obj\Debug\net10.0-windows\BelleCro.8C7309FD.Up2Date
 C:\Users\sherm\source\repos\BelleCroissantLyonnais\BelleCroissantLyonnaisApp\obj\Debug\net10.0-windows\BelleCroissantLyonnaisApp.FormRegistrar.resources
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\BelleCroissantLyonnaisApp\obj\Debug\net10.0-windows\BelleCroissantLyonnaisApp.FormPerfil.resources
+C:\Users\sherm\source\repos\BelleCroissantLyonnais\BelleCroissantLyonnaisApp\obj\Debug\net10.0-windows\BelleCroissantLyonnaisApp.sourcelink.json

@@ -188,6 +188,7 @@
             buttonCancelar.TabIndex = 16;
             buttonCancelar.Text = "Cancelar";
             buttonCancelar.UseVisualStyleBackColor = true;
+            buttonCancelar.Click += buttonCancelar_Click;
             // 
             // FormRegistrar
             // 
