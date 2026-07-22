@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelleCroissantLyonnaisApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b864cc2bfc34e61eeadb382c57efcd6e36a5a3b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ded96d56e3b6a71583c843a18880507a71c1b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelleCroissantLyonnaisApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelleCroissantLyonnaisApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

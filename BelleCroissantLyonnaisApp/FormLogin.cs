@@ -46,10 +46,15 @@ namespace BelleCroissantLyonnaisApp
         private void buttonCrear_cuenta_Click(object sender, EventArgs e)
         {
 
-                FormRegistrar formulario = new FormRegistrar();
-                formulario.Show();
+            FormRegistrar formulario = new FormRegistrar();
+            formulario.Show();
 
-                this.Hide();
+            this.Hide();
+        }
+
+        private void FormLogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
